@@ -80,3 +80,4 @@ reset.addEventListener("click", () => {
   isGameover = false;
   document.getElementsByClassName("info")[0].innerText = "Turn for player " + turn;
 });
+//Git commit Done. New file since i sent the wrong one!
